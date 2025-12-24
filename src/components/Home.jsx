@@ -43,7 +43,7 @@ const Home = () => {
           <div className="w-64 h-64 md:w-80 md:h-80 bg-gradient-to-r from-blue-400 to-purple-500 rounded-full overflow-hidden shadow-2xl">
             {/* Placeholder for profile image */}
             <div className="w-full h-full bg-gray-200 flex items-center justify-center">
-              <span className="text-4xl text-gray-500"><img src='./src/assets/image.jpg.jpeg'></img></span>
+              <span className="text-4xl text-gray-500"><img src='/image.jpg.jpeg'></img></span>
             </div>
           </div>
           <div className="absolute -bottom-4 -right-4 bg-white p-4 rounded-xl shadow-lg">
