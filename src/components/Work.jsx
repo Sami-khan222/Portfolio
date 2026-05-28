@@ -4,18 +4,18 @@ const Work = () => {
   const projects = [
     {
       title: 'Job-Portal Website',
-      description: 'Full-featured online Job-Posting platform with Auth Security integration and admin dashboard.',
-      tags: ['React.js', 'Node.js', 'MongoDB'],
+      description: 'Build a full-stack job portal where employers can post jobs and job seekers can search/filter listings, upload resumes, and apply directly through the platform.',
+      tags: ['React.js', 'Express.js','Node.js', 'MongoDB'],
       image: '/job-portal.png',
       github: 'https://github.com/Sami-khan222/job-portal.git',
       live: 'https://job-portal-1-ivl4.onrender.com/'
     },
     {
-      title: 'Task Management App',
-      description: 'Collaborative project management tool with real-time updates and team features.',
-      tags: ['Next.js', 'JavaScript', 'MySQL', 'Socket.io'],
-      image: 'https://images.unsplash.com/photo-1611224923853-80b023f02d71?w-400',
-      github: '#',
+      title: 'AI Marketing Assistant',
+      description: ' Marketing Assistant app analyzes products using Google Gemini AI to generate Instagram captions, ads, hooks, hashtags.',
+      tags: ['React + Vite', ' Tailwind CSS ','JavaScript','Node.js','Express.js ',' MongoDB', ' Gemini API',],
+      image: '/AI-marketing-assistant.png',
+      github: 'https://github.com/Sami-khan222/marketing-assistant.git',
       live: '#'
     },
     {

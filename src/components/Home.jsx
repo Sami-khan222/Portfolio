@@ -33,7 +33,8 @@ const Home = () => {
           <a href="https://github.com/Sami-khan222/" className="p-3 bg-gray-100 rounded-full hover:bg-blue-100 hover:text-blue-600 transition duration-300">
             <Github size={20} />
           </a>
-          <a href="#" className="p-3 bg-gray-100 rounded-full hover:bg-blue-100 hover:text-blue-600 transition duration-300">
+          <a href=" https://www.linkedin.com/in/sami-khan
+a8b591292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="p-3 bg-gray-100 rounded-full hover:bg-blue-100 hover:text-blue-600 transition duration-300">
             <Linkedin size={20} />
           </a>
           <a href="#" className="p-3 bg-gray-100 rounded-full hover:bg-blue-100 hover:text-blue-600 transition duration-300">
