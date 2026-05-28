@@ -4,7 +4,7 @@ const About = () => {
   const skills = [
     { icon: <Code2 />, title: 'Frontend', desc: 'React, Next.js' },
      { icon: <Zap />, title: 'Backend', desc: 'Node.js, Express.js' },
-     { icon: <Smartphone />, title: 'Database', desc: 'MongoDb, MySQL' },
+     { icon: <Smartphone />, title: 'Database', desc: 'MongoDB, MySQL' },
     { icon: <Palette />, title: 'DevOps', desc: 'Docker, Kubernets, GitHub' }
     
    
@@ -34,7 +34,7 @@ const About = () => {
               <ul className="space-y-2">
                 <li className="flex items-center text-gray-700">
                   <span className="w-2 h-2 bg-blue-600 rounded-full mr-3"></span>
-                  Based in San Francisco, CA
+                  Available for Full-Time
                 </li>
                 <li className="flex items-center text-gray-700">
                   <span className="w-2 h-2 bg-blue-600 rounded-full mr-3"></span>

@@ -13,14 +13,14 @@ const Education = () => {
        degree: 'Intermediate',
       institution: 'Islamia Inter College',
       duration: '2022 - 2023',
-      description: 'Focus on Marks. Percentage: 68%',
+      description: 'Percentage: 68%',
       icon:<School />
     },
      {
        degree: 'HighSchool',
       institution: 'Islamia Inter College',
-      duration: '2021 - 2022',
-      description: 'Focus on Marks. Percentage: 79%',
+      duration: '2020 - 2021',
+      description: 'Percentage: 79%',
       icon: <School />
     }
 
@@ -29,8 +29,8 @@ const Education = () => {
   const certifications = [
     'EduSkill Intership Certificate',
     'CodeAlpha Frontend Internship Certificate',
-    'React Advanced Certification',
-    'UX Design Specialization'
+    'Advanced Diploma In Computer Application(ADCA)',
+    //'UX Design Specialization'
   ]
 
   return (

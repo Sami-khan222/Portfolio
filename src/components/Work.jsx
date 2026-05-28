@@ -3,12 +3,12 @@ import { ExternalLink, Github, Globe } from 'lucide-react'
 const Work = () => {
   const projects = [
     {
-      title: 'E-Commerce Platform',
-      description: 'Full-featured online shopping platform with payment integration and admin dashboard.',
-      tags: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-      image: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400',
-      github: '#',
-      live: '#'
+      title: 'Job-Portal Website',
+      description: 'Full-featured online Job-Posting platform with Auth Security integration and admin dashboard.',
+      tags: ['React.js', 'Node.js', 'MongoDB'],
+      image: '/job-portal.png',
+      github: 'https://github.com/Sami-khan222/job-portal.git',
+      live: 'https://job-portal-1-ivl4.onrender.com/'
     },
     {
       title: 'Task Management App',
@@ -43,8 +43,8 @@ const Work = () => {
                 className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition duration-300 transform hover:-translate-y-1"
               >
                 <div className="h-48 overflow-hidden">
-                  <div className="w-full h-full bg-gradient-to-r from-blue-400 to-purple-500 flex items-center justify-center">
-                    <span className="text-white text-3xl">📱</span>
+                  <div className="w-full h-full  flex items-center justify-center">
+                    <span className="text-white text-3xl"><img src={project.image} alt="regret" /></span>
                   </div>
                 </div>
                 <div className="p-6">
@@ -85,7 +85,7 @@ const Work = () => {
         </div>
         
         {/* Work Experience */}
-        <div>
+      { /* <div>
           <h3 className="text-2xl font-semibold text-gray-800 mb-6">Work Experience</h3>
           <div className="space-y-6">
             <div className="bg-white p-6 rounded-xl shadow-sm border border-gray-100">
@@ -130,7 +130,7 @@ const Work = () => {
               </p>
             </div>
           </div>
-        </div>
+        </div>*/}
       </div>
     </section>
   )
