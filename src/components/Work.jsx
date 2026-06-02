@@ -19,12 +19,12 @@ const Work = () => {
       live: '#'
     },
     {
-      title: 'Weather Dashboard',
-      description: 'Interactive weather application with forecasts and location-based services.',
-      tags: ['React.js', 'OpenWeather API', 'Chart.js'],
-      image: 'https://images.unsplash.com/photo-1592210454359-9043f067919b?w=400',
-      github: '#',
-      live: '#'
+      title: 'Coding Learning Platform',
+      description: 'Built a full-stack MERN application with JWT authentication, Gemini AI coding tutor, quizzes, certificates, and personalized learning paths for Python, JavaScript, Java, and C++.',
+      tags: ['React.js', 'Tailwind CSS','Express.js','Node.js','YouTube Data V3 API','Judge0 API', 'Gemini API'],
+      image: '/CodeLearn.png',
+      github: 'https://github.com/Sami-khan222/Coding-Learning-Platform.git',
+      live: 'https://coding-learning-platform-1.onrender.com/'
     }
   ]
 
