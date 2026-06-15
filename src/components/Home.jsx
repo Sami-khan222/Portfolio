@@ -21,7 +21,7 @@ const Home = () => {
             <ArrowRight size={20} />
           </button>
           </a>
-          <a href="/Sami-khan-new-resume1 (2).pdf" download="Sami_CV.pdf">
+          <a href="/Sami-khan-new-resume1 (3).pdf" download="Sami_CV.pdf">
           <button className="border border-gray-300 text-gray-700 px-6 py-3 rounded-lg font-medium hover:bg-gray-50 transition duration-300">
             Download CV
           </button>
