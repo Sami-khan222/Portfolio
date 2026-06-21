@@ -25,6 +25,14 @@ const Work = () => {
       image: '/CodeLearn.png',
       github: 'https://github.com/Sami-khan222/Coding-Learning-Platform.git',
       live: 'https://coding-learning-platform-1.onrender.com/'
+    },
+    {
+      title: 'AI Resume Screener',
+      description: 'Created an AI Resume Screener that evaluates resumes against job descriptions using intelligent skill and keyword matching.Generates candidate scores and screening insights to assist recruiters in making faster hiring decisions.',
+      tags: ['React.js', 'Tailwind CSS','Express.js','Node.js','Gemini API'],
+      image: '/AI-resume-screener.png',
+      github: 'https://github.com/Sami-khan222/AI-Resume-Screener.git',
+      live: 'https://ai-resume-screener-1-ygyd.onrender.com/'
     }
   ]
 
