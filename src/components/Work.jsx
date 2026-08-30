@@ -33,6 +33,14 @@ const Work = () => {
       image: '/AI-resume-screener.png',
       github: 'https://github.com/Sami-khan222/AI-Resume-Screener.git',
       live: 'https://ai-resume-screener-1-ygyd.onrender.com/'
+    },
+      {
+      title: 'Landing Page',
+      description: 'Modern and responsive home page redesign for Tcongs Infotech, built from scratch using React, Tailwind CSS, Framer Motion, and Swiper.js with a premium UI and smooth animations.',
+      tags: ['React 18 + Vite', 'Tailwind CSS',' Framer Motion',' React Icons', 'Swiper.js.'],
+      image: '/tcongs.png',
+      github: 'https://github.com/Sami-khan222/Tcongs-Landing-page.git',
+      live: 'https://tcongs-landing-page.vercel.app/'
     }
   ]
 
