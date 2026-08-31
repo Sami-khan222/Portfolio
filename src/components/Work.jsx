@@ -41,6 +41,30 @@ const Work = () => {
       image: '/tcongs.png',
       github: 'https://github.com/Sami-khan222/Tcongs-Landing-page.git',
       live: 'https://tcongs-landing-page.vercel.app/'
+    },
+      {
+      title: 'Task Management System',
+      description: 'A full-stack task and project management system built for the AbleSpace Technical Assessment using Next.js, NestJS, TypeScript, Tailwind CSS, and MongoDB Atlas, featuring task/project management, subtasks, comments, authentication, themes, and responsive UI.',
+      tags: ['Next.js ', 'Tailwind CSS',' TypeScript',' NestJS', 'MongoDB Atlas + Mongoose'],
+      image: '/Task.png',
+      github: 'https://github.com/Sami-khan222/task-management-system.git',
+      live: 'https://task-management-system-qs60.onrender.com/login'
+    },
+    {
+      title: 'Mini Instagram Clone',
+      description: 'PixGram is a full-stack Instagram-inspired social media app built with the MERN stack, featuring JWT authentication, photo sharing, likes, comments, follow system, user search, and real-time chat using Socket.IO.',
+      tags: ['React.js', 'Tailwind CSS','Express.js','Node.js','Socket.IO'],
+      image: '/Pixgram.png',
+      github: 'https://github.com/Sami-khan222/Instagram-Clone.git',
+      live: '#'
+    },
+    {
+      title: 'Real-Time Chat Application',
+      description: 'ChatWave is a real-time full-stack chat application built with React, Node.js, Express, Socket.IO, and MongoDB, featuring live messaging, typing indicators, online user tracking, persistent chat history, and a responsive UI.',
+      tags: ['React.js', 'Tailwind CSS','Express.js','Node.js','Socket.IO'],
+      image: '/Real.png',
+      github: 'https://github.com/Sami-khan222/Real.git',
+      live: 'https://real-2l9c.onrender.com/login'
     }
   ]
 
