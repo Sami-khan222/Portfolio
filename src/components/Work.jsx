@@ -65,6 +65,14 @@ const Work = () => {
       image: '/Real.png',
       github: 'https://github.com/Sami-khan222/Real.git',
       live: 'https://real-2l9c.onrender.com/login'
+    },
+     {
+      title: 'MarketFlow',
+      description: 'MarketFlow AI is an AI-powered MERN marketing automation and CRM platform.It captures and qualifies leads, assigns them to team members, and automates follow-ups.It also provides campaign analytics and workflow tracking for architecture and interior studios.',
+      tags: ['React.js', 'Tailwind CSS','Express.js','Node.js','MongoDB'],
+      image: '/MarketFlow.png',
+      github: 'https://github.com/Sami-khan222/AI-Marketflow.git',
+      live: 'https://ai-marketflow-3h4a.onrender.com/'
     }
   ]
 
