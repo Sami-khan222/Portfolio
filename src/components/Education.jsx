@@ -7,7 +7,7 @@ const Education = () => {
       institution: 'Invertis University',
       duration: '2023 - 2026',
       description: 'Focus on Full Stack Development and Software Architecture.',
-      meta: 'GPA: ....',
+      meta: 'GPA: 7.3',
       icon: <Award size={18} />,
     },
     {
